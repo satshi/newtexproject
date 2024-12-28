@@ -75,7 +75,7 @@ pdflatextemplate = r'''
   \end{flushright}
   \vspace{8ex}
   %% Title
-  {\Large \bfseries \boldmath Supersymmetric quantum field theory with exotic symmetry in $3+1$ dimensions and fermionic fracton phases}\\
+  {\Large \bfseries \boldmath Exact Solutions in Gauge Theories: A Novel Analytical Framework}\\
   \vspace{4ex}
   % Author
   {\Large Satoshi Yamaguchi}\\
@@ -85,7 +85,7 @@ pdflatextemplate = r'''
   Osaka University, Toyonaka, Osaka 560-0043, Japan}\\
   \vspace{1ex}
   \begin{abstract}
-    We propose a supersymmetric quantum field theory with exotic symmetry related to fracton phases.  We use superfield formalism and write down the action of a supersymmetric version of the $\varphi$ theory in $3+1$ dimensions.  It contains a large number of ground states due to the fermionic higher pole subsystem symmetry.  Its residual entropy is proportional to the area instead of the volume.  This theory has a self-duality similar to that of the $\varphi$ theory.  We also write down the action of a supersymmetric version of a tensor gauge theory, and discuss BPS fractons.
+    We introduce a groundbreaking analytical approach to construct exact solutions in gauge theories, addressing longstanding challenges in solving these highly complex systems.
   \end{abstract}
 \end{center}
 
