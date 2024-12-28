@@ -4,15 +4,16 @@
 
 * 新しいディレクトリを作る
 * その中に次のファイルを作る
-  - projectname.tex
-  - latexmkrc
-  - .gitignore
+  * projectname.tex
+  * latexmkrc
+  * .gitignore
 
 ## 使い方
 
-```
+```sh
 newtexp.py projectname
 ```
-```
+
+```sh
 newtexp.py -e projectname
 ```
